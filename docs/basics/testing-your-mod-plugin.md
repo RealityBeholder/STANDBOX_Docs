@@ -8,7 +8,7 @@ To test your mod plugin, you will have to tell the editor where the STANDBOX exe
 
 ![](../images/SelectExecutableButton.png)
 
-This will open a window where you can select the STANDBOX executable. Navigate to the folder where you installed STANDBOX and select the `STANDBOX.exe` file.
+This will open a window where you can select the STANDBOX executable. You can select either your main STANDBOX game executable, or the one located in the `DevBuild` folder of the SDK. It's recommended to use the one in the `DevBuild` folder as it has more debugging features enabled.
 
 After you have selected the executable, you also have to go to the same toolbar and checkmark the "Quick Test" button.
 
