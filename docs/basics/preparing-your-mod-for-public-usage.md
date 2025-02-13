@@ -4,7 +4,7 @@ Once you are done with your mod, you may want to share it with other players. Th
 
 ## Packaging your mod
 
-The packaging is the same as testing your mod, but instead you simply uncheck the "Quick Test" button. Now after the packaging is done, you will be able to find a `.pak` file inside your mod plugin. Go to the folder where your SDK is located, open the Mods folder, then open your mod's folder and navigate to `Windows/STANDBOX/Mods/YOURMODNAME/Content/Paks/Windows`. Inside this folder, you will find the `.pak` file, keep this file location in mind as you will need it later.
+The packaging is the same as testing your mod, but instead you simply uncheck the "Quick Test" button. Now after the packaging is done, you will be able to find a `.pak` file inside your mod plugin. Go to the folder where your SDK is located, navigate to `SDK/Mods/YOURMODNAME/Windows/STANDBOX/Mods/YOURMODNAME/Content/Paks/Windows` (yes the path is long). Inside this folder, you will find the `.pak` file, keep this file location in mind as you will need it later.
 
 ## Creating your mod folder
 
